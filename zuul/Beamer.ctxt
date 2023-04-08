@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\n\ This\ class\ represents\ an\ item\ called\ Beamer.\n\ A\ beamer\ is\ an\ item\ that\ can\ be\ charged\ and\ fired.\n\ \n\ Charging\ a\ beamer\ in\ a\ room\ memorises\ that\ room.\n\ Firing\ a\ beamer\ in\ any\ room\ will\ take\ the\ player\ back\ \n\ to\ the\ room\ in\ which\ the\ beamer\ was\ charged.\ \n\ \n\ @author\ Manit\ Jawa\ 101215842\n\ @version\ A2\ 1.0\ March\ 15,\ 2023\n
+comment1.params=
+comment1.target=Beamer()
+comment1.text=\n\ Constructs\ a\ Beamer\ item.\ \n\ Constructor\ for\ objects\ of\ class\ Beamer.\n
+comment2.params=
+comment2.target=void\ charge()
+comment2.text=\n\ Charges\ a\ beamer\ object.\ \n\ Sets\ the\ field\ charged\ to\ true.\n
+comment3.params=
+comment3.target=boolean\ isCharged()
+comment3.text=\n\ Checks\ if\ beamer\ is\ charged\ or\ not.\n\ Returns\ the\ value\ stored\ in\ field\ charged.\n\ \n\ @return\ True,\ if\ beamer\ is\ charged;\ False\ otherwise.\n
+comment4.params=
+comment4.target=void\ fire()
+comment4.text=\n\ Fires\ the\ beamer.\n
+numComments=5
